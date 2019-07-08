@@ -9,3 +9,4 @@ Jasmine is a behavior-driven development framework for testing JavaScript code.
 # Resources
 
 * [Jasmine](https://jasmine.github.io/2.3/introduction.html)
+* [Exercism](https://exercism.io/)
